@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/login-form/static/css/main.09c52544.css",
+    "main.js": "/login-form/static/js/main.0635b07b.js",
+    "static/js/239.23b24e3f.chunk.js": "/login-form/static/js/239.23b24e3f.chunk.js",
+    "static/js/213.c78add1d.chunk.js": "/login-form/static/js/213.c78add1d.chunk.js",
+    "static/js/455.2197a029.chunk.js": "/login-form/static/js/455.2197a029.chunk.js",
+    "static/js/453.f9f7896a.chunk.js": "/login-form/static/js/453.f9f7896a.chunk.js",
+    "index.html": "/login-form/index.html",
+    "main.09c52544.css.map": "/login-form/static/css/main.09c52544.css.map",
+    "main.0635b07b.js.map": "/login-form/static/js/main.0635b07b.js.map",
+    "239.23b24e3f.chunk.js.map": "/login-form/static/js/239.23b24e3f.chunk.js.map",
+    "213.c78add1d.chunk.js.map": "/login-form/static/js/213.c78add1d.chunk.js.map",
+    "455.2197a029.chunk.js.map": "/login-form/static/js/455.2197a029.chunk.js.map",
+    "453.f9f7896a.chunk.js.map": "/login-form/static/js/453.f9f7896a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c52544.css",
+    "static/js/main.0635b07b.js"
+  ]
+}
